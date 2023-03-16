@@ -1,0 +1,19 @@
+{
+	"name": "@roger.b/functions",
+	"version": "1.0.0",
+	"description": "Utils function write in ts",
+	"main": "src/index.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Carter2307/functions.git"
+	},
+	"author": "roger bentcha",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Carter2307/functions/issues"
+	},
+	"homepage": "https://github.com/Carter2307/functions#readme"
+}
